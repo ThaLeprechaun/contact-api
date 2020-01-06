@@ -1,0 +1,25 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "firstname": "john",
+      "lastname": "Doe",
+      "email": "jdoe@yahoo.com",
+      "phone": "08012345678"
+    },
+    {
+      "id": 2,
+      "firstname": "jane",
+      "lastname": "Doe",
+      "email": "janedoe@yahoo.com",
+      "phone": "08022345678"
+    },
+    {
+      "id": 3,
+      "firstname": "Sam",
+      "lastname": "Smith",
+      "email": "ssmith@yahoo.com",
+      "phone": "08032345678"
+    }
+  ]
+}
